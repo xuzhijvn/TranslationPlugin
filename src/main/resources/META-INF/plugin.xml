@@ -1,7 +1,7 @@
 <idea-plugin url="https://yiiguxing.github.io/TranslationPlugin" require-restart="true">
     <id>cn.yiiguxing.plugin.translate</id>
-    <name>Translation</name>
-    <vendor email="yii.guxing@outlook.com" url="https://github.com/YiiGuxing">Yii.Guxing</vendor>
+    <name>TranslationLT</name>
+    <vendor email="zhaowoganmane@gmail.com" url="https://github.com/xuzhijvn">徐植君</vendor>
 
     <resource-bundle>messages.LanguageBundle</resource-bundle>
     <resource-bundle>messages.TranslationBundle</resource-bundle>
@@ -60,7 +60,7 @@
         <projectService serviceImplementation="cn.yiiguxing.plugin.translate.service.TranslationUIManager"/>
 
         <applicationConfigurable groupId="tools"
-                                 displayName="Translation"
+                                 displayName="TranslationLT"
                                  instance="cn.yiiguxing.plugin.translate.ui.settings.TranslationConfigurableImpl"/>
 
         <statusBarWidgetFactory id="Translation.Widget"
