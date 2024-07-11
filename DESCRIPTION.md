@@ -20,6 +20,7 @@
             <li>Youdao Translate.</li>
             <li>Alibaba Translate.</li>
             <li>Baidu Translate.</li>
+            <li>LibreTranslate.</li>
         </ul>
     </li>
     <li>Multiple languages inter-translation.</li>
